@@ -14,3 +14,5 @@ HttpQuest is an on-demand platform connecting businesses with top tech freelance
 - React.js (with Next.js)
 - Firebase for authentication and backend services
 - Tailwind CSS for styling
+
+| Made with {positiveEmotion} by ChatGPT
